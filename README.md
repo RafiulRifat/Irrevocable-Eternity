@@ -1,75 +1,90 @@
-# Irrevocable-Eternity
-Irrevocable-Eternity is an amazing action packed dungeon fighting 2D game developed by Md. Rakib Hasan, Shahriar Rahman Bhuiyan and Kazi Zannatul Tajrin.
+🎮 IRREVOCABLE-ETERNITY
+An intense 2D dungeon crawler packed with fast-paced action, mythic storytelling, and pixel-powered combat.
+Developed by Rafiul Siddique
 
-## Table of Contents
+📑 Table of Contents
+🧭 Overview
 
-- [Introduction](#introduction)
-- [Objective](#Objective)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Screenshot and Demo Video](#screenshot-and-demo-video)
-- [Team Members](#team-members)
+🎯 Game Concept
 
-## Introduction
+🛠 Tools & Technologies
 
-Our project is a 2D action packed, hack and slash, roleplaying game featuring our main character ‘Natan’. The game starts with the evil shadow lord ‘Bane’ attacking Natan’s village ‘Arronhielle’ and petrifying all the inhabitants. Our protagonist embarks on a journey to save his beloved homeland and to stop Bane’s evil plan.
+⚙️ Setup Instructions
 
-## Objective
+🕹 Gameplay Guide
 
-- Your objective as a protangonist is to finish all the levels and save everyone.
-- Level one is completed by killing all the enemies and getting on the dragon
-- Level two is completed by collecting the coins through a specific distance
+🎬 Visuals & Demo
 
+👤 Contributor
 
-## Technologies Used
+📣 Feedback & Support
 
-- C/C++ Programming Language
-- OpenGL Library
-- iGraphics Engine
+🧭 Overview
+Irrevocable-Eternity is a thrilling 2D hack-and-slash roleplaying adventure.
+Players take control of the heroic warrior Natan, who must save his village Arronhielle from the evil shadow lord Bane, who has turned its inhabitants to stone.
 
-## Installation
+Embark on an epic journey filled with enemies, dragons, coins, and dark magic.
 
-To play Irrevocable-Eternity, follow these steps:
+🎯 Game Concept
+Your mission is to guide Natan through two action-packed levels and restore peace.
 
-1. Clone or [download](https://github.com/AfnanRakib/Irrevocable-Eternity/zip/refs/heads/main.zip) the repository to your local machine.
-2. Navigate to the "Irrevocable Eternity\Debug" folder.
-3. Launch the game by running "Irrevocable Eternity.exe".
+⚔️ Level 1: Defeat all enemies and reach the ancient dragon to progress.
 
-## How to Play
+🪙 Level 2: Ride the dragon and collect floating coins while dodging lethal spikes.
 
-The player has to advance through each levels in order to finish the game. There are two levels in the game. The first level is completed by killing all the enemies and moving through various scenarios towards the dragon. The protagonist will lose lives if he takes a hit from the enemy minions. The second level is completed by collecting coins on dragon-back. The dragon will lose lives if it comes in contact with the spikes. If the player loses all his lives, he will die and the game will be over.
+Each level introduces unique mechanics, visual themes, and increasing challenges.
 
-- Movements:
-  - ‘W’ for jumping
-  - ‘A’ to go backward
-  - ‘D’ to go forward
-- Actions:
-  - Right click on the mouse to attack
-  - Left click on the mouse for shielding
-  - Mouse click to select options from the menu
+🛠 Tools & Technologies
+Category	Technology
+💻 Programming	C / C++
+🎨 Graphics	OpenGL
+🧩 Game Engine	iGraphics (custom)
 
-## Screenshot and Demo Video
+⚙️ Setup Instructions
+To run Irrevocable-Eternity locally:
 
-Check out the gameplay video of Irrevocable-Eternity on [YouTube](https://www.youtube.com/watch?v=ASsGai9TVV0):
+bash
+Copy
+Edit
+# Step 1: Clone the repo
+git clone https://github.com/RafiulRifat/Irrevocable-Eternity.git
 
-[![Irrevocable-Eternity](https://img.youtube.com/vi/ASsGai9TVV0/0.jpg)](https://www.youtube.com/watch?v=ASsGai9TVV0)
+# Step 2: Navigate to the build directory
+cd Irrevocable-Eternity/Debug
 
-**Menu Screen:**
-<img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/menu.png" width="985" height="599">
-**Level 1:**
-<img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/level1.png" width="985" height="599">
-**Level 2:**
-<img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/level2.png" width="985" height="599">
+# Step 3: Run the game
+./Irrevocable-Eternity.exe
+Ensure you have a C++ compatible compiler and OpenGL installed if building manually.
 
-## Team Members
+🕹 Gameplay Guide
+🎮 Controls:
+Action	Key / Input
+Jump	W
+Move Left	A
+Move Right	D
+Attack	Right Mouse Click
+Shield	Left Mouse Click
+Menu Selection	Mouse Click
 
-- Md. Rakib Hasan
-  - LinkedIn: [Md. Rakib Hasan](https://www.linkedin.com/in/afnanhasanrakib)
-- Md. Shahriar Rahman Bhuyian
-  - LinkedIn: [Shahriar Rahman](https://www.linkedin.com/in/shahriar-rahman-3893012a8/)
-- Kazi Zannatul Tajrin
-  - LinkedIn: [Kazi Zannatul Tajrin](https://www.linkedin.com/in/kazi-zannatul-tajrin-76b835256/)
-  
-If you have questions or feedback feel free to reach out to us. We appreciate your support and feedbacks. Hope you enjoy playing Irrevocable-Eternity.
+💡 Tip: Avoid enemy hits and spikes — losing all lives results in game over!
 
+🎬 Visuals & Demo
+Check out the gameplay demo on YouTube:
+▶️ Irrevocable-Eternity Gameplay Trailer (Insert real link)
+
+🖼 Screenshots:
+🧙 Main Menu
+
+⚔️ Combat in Level 1
+
+🐉 Dragon Ride in Level 2
+
+👤 Contributor
+Rafiul Siddique
+Game Developer & Designer
+
+📣 Feedback & Support
+Have suggestions or found a bug?
+Feel free to reach out or open an issue. Your feedback helps us improve the game!
+
+Thank you for playing Irrevocable-Eternity!
