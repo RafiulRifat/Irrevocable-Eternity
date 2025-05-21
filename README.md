@@ -47,7 +47,7 @@ bash
 Copy
 Edit
 # Step 1: Clone the repo
-git clone https://github.com/yourusername/mystic-reign-shadows-of-valor.git
+git clone https://github.com/RafiulRifat/Mystic-Reign-Shadows-of-Valor.git
 
 # Step 2: Navigate to the build directory
 cd Mystic\ Reign/Debug
