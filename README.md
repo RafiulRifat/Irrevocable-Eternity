@@ -1,4 +1,4 @@
-🎮 Mystic Reign: Shadows of Valor
+🎮 IRREVOCABLE-ETERNITY
 An intense 2D dungeon crawler packed with fast-paced action, mythic storytelling, and pixel-powered combat.
 Developed by Rafiul Siddique
 
@@ -20,7 +20,7 @@ Developed by Rafiul Siddique
 📣 Feedback & Support
 
 🧭 Overview
-Mystic Reign is a thrilling 2D hack-and-slash roleplaying adventure.
+Irrevocable-Eternity is a thrilling 2D hack-and-slash roleplaying adventure.
 Players take control of the heroic warrior Natan, who must save his village Arronhielle from the evil shadow lord Bane, who has turned its inhabitants to stone.
 
 Embark on an epic journey filled with enemies, dragons, coins, and dark magic.
@@ -41,19 +41,19 @@ Category	Technology
 🧩 Game Engine	iGraphics (custom)
 
 ⚙️ Setup Instructions
-To run Mystic Reign: Shadows of Valor locally:
+To run Irrevocable-Eternity locally:
 
 bash
 Copy
 Edit
 # Step 1: Clone the repo
-git clone https://github.com/RafiulRifat/Mystic-Reign-Shadows-of-Valor.git
+git clone https://github.com/RafiulRifat/Irrevocable-Eternity.git
 
 # Step 2: Navigate to the build directory
-cd Mystic\ Reign/Debug
+cd Irrevocable-Eternity/Debug
 
 # Step 3: Run the game
-./Mystic\ Reign.exe
+./Irrevocable-Eternity.exe
 Ensure you have a C++ compatible compiler and OpenGL installed if building manually.
 
 🕹 Gameplay Guide
@@ -70,7 +70,7 @@ Menu Selection	Mouse Click
 
 🎬 Visuals & Demo
 Check out the gameplay demo on YouTube:
-▶️ Mystic Reign Gameplay Trailer (Insert real link)
+▶️ Irrevocable-Eternity Gameplay Trailer (Insert real link)
 
 🖼 Screenshots:
 🧙 Main Menu
@@ -87,5 +87,4 @@ Game Developer & Designer
 Have suggestions or found a bug?
 Feel free to reach out or open an issue. Your feedback helps us improve the game!
 
-Thank you for playing Mystic Reign!
-
+Thank you for playing Irrevocable-Eternity!
